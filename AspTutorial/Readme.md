@@ -1,7 +1,7 @@
 ﻿# Asp tutorial
 
-As part of 100 days of code challenge I started with little chalenge learning new language and new framework. As a cheat I am familiar with C# already as I learned basics a long time ago
-so it was just a matter of remebring it.
+As part of 100 days of code challenge, I started with a little challenge learning a new language and new framework. As a cheat, I am familiar with C# already as I learned basics a long time ago
+so it was just a matter of remembering it.
 
 # Simple API tutorial
 
